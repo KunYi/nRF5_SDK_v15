@@ -1,0 +1,3 @@
+[submodule "examples/training/nrf52-ble-multi-link-multi-role"]
+	path = examples/training/nrf52-ble-multi-link-multi-role
+	url = git@github.com:KunYi/nrf52-ble-multi-link-multi-role.git
